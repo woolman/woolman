@@ -1,2 +1,3 @@
-# woolman
-CiviCRM extension for customizations to woolman.org on Wordpress
+# Woolman CiviCRM Extension
+
+Customizations to woolman.org on Wordpress

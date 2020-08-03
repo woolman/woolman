@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<extension key="woolman" type="module">
+  <file>woolman</file>
+  <name>Woolman Website</name>
+  <description>CiviCRM customizations specific to woolman.org.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Coleman Watts</author>
+    <email>coleman@civicrm.org</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/woolman/woolman</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2020-08-03</releaseDate>
+  <version>1.0</version>
+  <compatibility>
+    <ver>5.27</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Woolman</namespace>
+  </civix>
+</extension>
